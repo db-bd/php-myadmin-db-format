@@ -1,0 +1,10 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'my_db'
+
+// my_db.table1
+
+[{"Username":"admin","Password":"admin","Role":"adminstrator"}]

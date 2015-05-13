@@ -1,0 +1,13 @@
+===Database my_db
+
+== Table structure for table table1
+
+|------
+|Column|Type|Null|Default
+|------
+|Username|char(30)|Yes|NULL
+|Password|char(30)|Yes|NULL
+|Role|char(30)|Yes|NULL
+== Dumping data for table table1
+
+|admin|admin|adminstrator

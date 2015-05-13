@@ -1,0 +1,8 @@
+%YAML 1.1
+---
+# my_db.table1
+-
+  Username: "admin"
+  Password: "admin"
+  Role: "adminstrator"
+...

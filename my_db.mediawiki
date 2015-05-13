@@ -1,0 +1,17 @@
+
+<!--
+Table data for `table1`
+-->
+
+{| class="wikitable sortable" style="text-align:center;"
+|+'''table1'''
+|-
+ ! Username
+ ! Password
+ ! Role
+|-
+ | admin
+ | admin
+ | adminstrator
+|}
+
